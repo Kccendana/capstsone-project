@@ -1,11 +1,3 @@
-:root {
-  --primary-font-style: 'Lato', sans-serif;
-  --head-font-style: 'Montserrat', sans-serif;
-  --primary-color: #ec5242;
-  --secondary-color: #272a31;
-  --accent-color: #d3d3d3;
-}
-
 * {
   padding: 0;
   margin: 0;
@@ -13,6 +5,14 @@
   text-decoration: none;
   list-style: none;
   font-family: var(--primary-font-style);
+}
+
+:root {
+  --primary-font-style: 'Lato', sans-serif;
+  --head-font-style: 'Montserrat', sans-serif;
+  --primary-color: #ec5242;
+  --secondary-color: #272a31;
+  --accent-color: #d3d3d3;
 }
 
 img {
@@ -135,7 +135,7 @@ nav {
 
 .heading {
   color: transparent;
-  background: url('/assets/head-background.jpg');
+  background: url('../assets/head-background.jpg');
   -webkit-text-fill-color: transparent;
   font-size: 2.2em;
   font-family: var(--head-font-style);
