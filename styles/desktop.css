@@ -1,0 +1,99 @@
+@media only screen and (min-width: 49em) {
+  .nav-button {
+    display: none;
+  }
+
+  .social-media {
+    display: flex;
+    background-color: #272a31;
+    color: white;
+    gap: 1em;
+    padding: 0.5em 10%;
+    justify-content: flex-end;
+  }
+
+  .menu-list li {
+    font-size: 1em;
+    padding: 0 0.5em;
+  }
+
+  ul.social-media li a {
+    color: white;
+  }
+
+  .nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background: #d3d3d3;
+    top: 37px;
+    padding: 0.5em 10%;
+    z-index: 5;
+  }
+
+  .logo {
+    width: 44px;
+    display: block;
+  }
+
+  .menu-list {
+    display: flex;
+    flex-direction: row;
+    right: 10%;
+    justify-content: flex-end;
+    gap: 1.5em;
+    position: relative;
+    left: 1%;
+    top: 7px;
+  }
+
+  .hero {
+    padding: 20% 10% 1em;
+  }
+
+  .event-description {
+    width: 70%;
+  }
+
+  .program-container {
+    padding: 1.5em 10%;
+  }
+
+  .program-categories-details {
+    flex-direction: column;
+    width: 20%;
+    height: 195px;
+    justify-content: center;
+  }
+
+  .program {
+    flex-direction: row;
+  }
+
+  .button {
+    display: none;
+  }
+
+  .see-program {
+    display: block;
+    color: white;
+    text-decoration: underline;
+    margin-top: 1em;
+    padding: 0.25em 0.5em;
+  }
+
+  .program-categories-details p {
+    text-align: center;
+    width: 100%;
+  }
+
+  .speakers {
+    grid-template-columns: 1fr 1fr;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  .speaker-btn {
+    display: none;
+  }
+}
