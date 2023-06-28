@@ -17,6 +17,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
+  - [🎥 Video Presentation](#video-presentation)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -37,6 +38,8 @@
 
 
 **Wellness Advocate Annual Convention** is an event page that illustrates my skills applying the best practices of JavaScript, HTML and CSS. 
+![Snapshot](assets/desktop-version.JPG)
+![Snapshot](assets/about-page.JPG)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -69,7 +72,15 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link]To be added later()
+- [Live Demo Link](https://kccendana.github.io/capstsone-project/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🎥 Project Video Presentation <a name="video-presentation"></a>
+
+
+- [Project Presentation](https://www.loom.com/share/42a15da6bb51425eb598b7334f7ea59e?sid=b7a8d37d-2e8b-44a2-a1c0-e518b96fff27)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,7 +155,8 @@ If you like this project feel free to follow this project and hit the star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank Microverse for helping me improve my skills in web design.
+-I would like to thank Microverse for helping me improve my skills in web design.
+-Design template by Cindy Shin(https://www.behance.net/adagio07)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
