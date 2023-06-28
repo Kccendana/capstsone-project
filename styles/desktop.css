@@ -47,16 +47,39 @@
     top: 7px;
   }
 
+  .heading {
+    color: transparent;
+    background: url('../assets/bg-head.jpg');
+    -webkit-text-fill-color: transparent;
+    font-size: 5em;
+    background-clip: text;
+    -webkit-background-clip: text;
+    background-size: cover;
+  }
+
+  .about-heading {
+    color: #ec5242;
+  }
+
   .hero {
-    padding: 20% 10% 1em;
+    padding: 15% 20% 10% 10%;
+  }
+
+  .audience {
+    font-size: 2em;
   }
 
   .event-description {
     width: 70%;
+    margin-bottom: 3.75em;
+  }
+
+  .date {
+    font-size: 2em;
   }
 
   .program-container {
-    padding: 1.5em 10%;
+    padding: 5% 10%;
   }
 
   .program-categories-details {
@@ -95,5 +118,15 @@
 
   .speaker-btn {
     display: none;
+  }
+
+  .logo-contest {
+    padding: 2em 10%;
+    text-align: center;
+  }
+
+  footer {
+    padding: 2.5em;
+    gap: 2em;
   }
 }
