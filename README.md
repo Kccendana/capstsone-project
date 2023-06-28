@@ -155,8 +155,8 @@ If you like this project feel free to follow this project and hit the star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
--I would like to thank Microverse for helping me improve my skills in web design.
--Design template by Cindy Shin(https://www.behance.net/adagio07)
+- I would like to thank Microverse for helping me improve my skills in web design.
+- Design template by Cindy Shin
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
