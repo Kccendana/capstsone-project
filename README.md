@@ -34,7 +34,7 @@
 - [📝 License](#license)
 
 
-# 📖 KC Portfolio <a name="about-project"></a>
+# 📖 Well Advocate Annual Convention <a name="about-project"></a>
 
 
 **Wellness Advocate Annual Convention** is an event page that illustrates my skills applying the best practices of JavaScript, HTML and CSS. 
